@@ -4,3 +4,6 @@
 
 //First commit:
 //I will be sharing my C code samples. 
+
+//Second commit
+//This commit made my Notepad++
